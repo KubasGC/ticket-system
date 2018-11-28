@@ -1,0 +1,10 @@
+{
+    "name": "kubas/oauth",
+    "authors": [
+        {
+            "name": "Kubas",
+            "email": "kubasgc@live.com"
+        }
+    ],
+    "require": {}
+}
